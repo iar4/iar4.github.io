@@ -11,8 +11,15 @@ th, td {
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
+        .header{
+        background-color: green
+         padding: 20px;
+  text-align: center;
+        }
         </style>
+        <div class="header">
 <h1>Copa do mundo da FIFA Catar 2022</h1>
+        </div>
 <table>
         <tr>
             <th>Grupo A</th>
