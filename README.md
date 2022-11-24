@@ -10,9 +10,14 @@ th, td {
   padding: 8px;
 }
 
-tr:nth-child(even) {background-color: #f2f2f2;}
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
         .header{
-        background-color: green
+        background-color: green;
          padding: 20px;
   text-align: center;
         }
