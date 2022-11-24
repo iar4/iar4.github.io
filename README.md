@@ -1,4 +1,18 @@
 # xxx
+<style>
+        table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+        </style>
+<h1>Copa do mundo da FIFA Catar 2022</h1>
 <table>
         <tr>
             <th>Grupo A</th>
