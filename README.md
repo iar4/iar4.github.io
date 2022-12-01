@@ -9,68 +9,26 @@
 |Senegal  | EUA |
 | Catar  | Irã |
         
-            <th>Grupo A</th>
-            <th>Holanda</th>
-            <th>Equador</th>
-            <th>Senegal</th>
-            <th>Catar</th>
-        </tr>
-        
-        </table>
-        <table>
-
-        <th>Grupo B</th>
-            <th>Inglaterra</th>
-            <th>Gales</th>
-            <th>Estados Unidos</th>
-            <th>Irã</th>
-        </table>
-        <table>
+| Grupo C  | Grupo D |
+| ------------- | ------------- |
+| Argentina  | Austrália |
+| México | Dinamarca |
+| polônia | França |
+| Arábia Saudita | Tunísia |
         
 
-            <th>Grupo C</th>
-            <th>Argentina</th>
-            <th>México</th>
-            <th>Polônia</th>
-            <th>Arábia Saudita</th>
-        </table>
-        <table>
+| Grupo E | Grupo F |
+| ------------- | ------------- |
+| Costa Rica  | Bélgica |
+| Alemanha | Canadá |
+| japão  | Croácia |
+| Espanha  | Marrocos |
 
-            <th>Grupo D</th>
-            <th>Austrália</th>
-            <th>Dinamarca</th>
-            <th>França</th>
-            <th>Tunísia</th>
-        </table>
-        <table>
+| Grupo G  | Grupo H |
+| ------------- | ------------- |
+| Brasil  | Gana |
+| Camarões | Coreia do Sul |
+|Sérvia  | Portugal |
+| Suíça  | Uruguai |
 
-            <th>Grupo E</th>
-            <th>Costa Rica</th>
-            <th>Alemanha</th>
-            <th>Japão</th>
-            <th>Espanha</th>
-        </table>
-        <table>
-
-            <th>Grupo F</th>
-            <th>Bélgica</th>
-            <th>Canadá</th>
-            <th>Croácia</th>
-            <th>Marrocos</th>
-        </table>
-        <table>
-
-            <th>Grupo G</th>
-            <th>Brasil</th>
-            <th>Camarões</th>
-            <th>Sérvia</th>
-            <th>Suíça</th>
-        </table>
-        <table>
-
-            <th>Grupo H</th>
-            <th>Gana</th>
-            <th>Coreia do Sul</th>
-            <th>Portugal</th>
-            <th>Uruguai</th>
-    </table>
+           
