@@ -1,32 +1,14 @@
 # xxx
-<style>
-        table {
-  border-collapse: collapse;
-  width: 100%;
-}
 
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even){background-color: #f2f2f2}
-
-th {
-  background-color: #04AA6D;
-  color: white;
-}
-        .header{
-        background-color: green;
-         padding: 20px;
-  text-align: center;
-        }
-        </style>
-        <div class="header">
 <h1>Copa do mundo da FIFA Catar 2022</h1>
-        </div>
-<table>
-        <tr>
+
+| Grupo A  | Grupo B |
+| ------------- | ------------- |
+| Holanda  | Inglaterra  |
+| Equador | Gales |
+|Senegal  | EUA |
+| Catar  | Irã |
+        
             <th>Grupo A</th>
             <th>Holanda</th>
             <th>Equador</th>
